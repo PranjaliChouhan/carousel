@@ -6,6 +6,7 @@ Install the required dependencies using npm :npm install react-responsive-carous
 This command will install the "react-responsive-carousel" library, which is necessary to create the carousel component.
 
 Customization
+
 The "react-responsive-carousel" library offers various props to customize the carousel's behavior and appearance. Here are some :
 
 infiniteLoop: Set to true to enable infinite looping through the images.
